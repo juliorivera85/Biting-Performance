@@ -1,4 +1,5 @@
 # Biting-Performance
+In  depth analysis of the biomehcnaics of biting
 
 This is an anaylsis that allows you to compare biting performance capabilities between lizard species. Then you can run some simple paramtric analyses on the morphology of the lizard.
 
